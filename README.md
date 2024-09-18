@@ -16,7 +16,7 @@ cd ScribCompNet
 * Please download pre-trained weights on PASCAL VOC 2012 dataset from [here](https://cmu.app.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi) and place it in `./model_data/`.
 
 ### Model  Download
-* Please download the ScribCompNet weights from [here](https://drive.google.com/file/d/1Dm34y0QuUOduCwx49deBz-l1wdb6UiNg/view?usp=sharing) and place it in `./logs/` for inference.
+* Please download the ScribCompNet weights 'ScribCompNet_weights.pth' from [here](https://drive.google.com/file/d/1Dm34y0QuUOduCwx49deBz-l1wdb6UiNg/view?usp=sharing) and place it in `./logs/` for inference.
 
 ### Training
 ~~~~
