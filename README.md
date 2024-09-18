@@ -13,10 +13,10 @@ cd ScribCompNet
 * Please download the SBCIV and SBCIV-ScribComp datasets from [here](https://drive.google.com/drive/folders/1Q-wIpMxgb4gtruM_xHXO54lnlRfd8014?usp=sharing) and then place it in `./VOCdevkit/VOC2007/`.
 
 ### Pre-trained Weight
-* Please download pre-trained weights on PASCAL VOC 2012 dataset from [here](https://cmu.app.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi) and place it in `./model_data/`.
+* Please download pre-trained weights `hrnetv2_w18_weights_voc.pth` from [here](https://drive.google.com/drive/folders/1FQNO84nLVzlYqzEbbTFZTeKAxPN3FEsp?usp=sharing) and place it in `./model_data/`.
 
 ### Model  Download
-* Please download the ScribCompNet weights `ScribCompNet_weights.pth` from [here](https://drive.google.com/file/d/1Dm34y0QuUOduCwx49deBz-l1wdb6UiNg/view?usp=sharing) and place it in `./logs/` for inference.
+* Please download the ScribCompNet weights `ScribCompNet_weights.pth` from [here](https://drive.google.com/drive/folders/1FQNO84nLVzlYqzEbbTFZTeKAxPN3FEsp?usp=sharing) and place it in `./logs/` for inference.
 
 ### Training
 ~~~~
