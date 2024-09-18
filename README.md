@@ -10,7 +10,7 @@ git clone https://github.com/itschenyu/ScribCompNet.git
 cd ScribCompNet
 ~~~~
 ### Datasets
-* Please download the SBCIV and SBCIV-ScribComp datasets from [here](https://drive.google.com/drive/folders/15fmV5aLoMnWC-IWyCLNkE2qH8MDPfvox?usp=sharing) and then place it in `./VOCdevkit/VOC2007/`.
+* Please download the SBCIV and SBCIV-ScribComp datasets from [here](https://drive.google.com/drive/folders/1Q-wIpMxgb4gtruM_xHXO54lnlRfd8014?usp=sharing) and then place it in `./VOCdevkit/VOC2007/`.
 
 ### Pre-trained Weight
 * Please download pre-trained weights on PASCAL VOC 2012 dataset from [here](https://cmu.app.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi) and place it in `./model_data/`.
