@@ -1,4 +1,4 @@
-# AECIF-Net
+# ScribCompNet
 This is the implementation of the paper ["Weakly-supervised structural component segmentation via scribble annotations"](https://onlinelibrary.wiley.com/journal/14678667).
 
 ## Getting Started
