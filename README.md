@@ -1,5 +1,5 @@
 # ScribCompNet
-This is the implementation of the paper ["Weakly-supervised structural component segmentation via scribble annotations"](https://onlinelibrary.wiley.com/journal/14678667).
+This is the implementation of the paper ["Weakly-supervised structural component segmentation via scribble annotations"](https://onlinelibrary.wiley.com/doi/10.1111/mice.13350).
 
 ## Getting Started
 ### Installation
